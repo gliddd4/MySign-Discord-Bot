@@ -8,7 +8,7 @@ A awesome ipa repo browser discord bot
 - Downloading certificates or dns profiles (Outdated)
 
 ## Screenshots
-<div style="display: flex; justify-content: center; gap: 16px;">
+<div style="display: flex; flex-direction: column; justify-content: center; align-items: center; gap: 16px;">
   <img src="IMG_0537.jpeg" alt="Image 1" style="width: 45%; height: auto;">
   <img src="IMG_0539.jpeg" alt="Image 2" style="width: 45%; height: auto;">
 </div>
