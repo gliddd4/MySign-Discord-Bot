@@ -9,8 +9,8 @@ A awesome ipa repo browser discord bot
 
 ## Screenshots
 <div style="display: flex; justify-content: center; gap: 16px;">
-  <img src="IMG_0537.png" alt="Image 1" style="width: 45%; height: auto;">
-  <img src="IMG_0539.png" alt="Image 2" style="width: 45%; height: auto;">
+  <img src="IMG_0537.jpeg" alt="Image 1" style="width: 45%; height: auto;">
+  <img src="IMG_0539.jpeg" alt="Image 2" style="width: 45%; height: auto;">
 </div>
 
 ## Credits
