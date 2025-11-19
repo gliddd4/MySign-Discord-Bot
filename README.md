@@ -1,5 +1,5 @@
 # MySign Discord Bot
-A awesome ipa repo browser discord bot
+A awesome ipa repo browser for discord
 
 ## Features
 - Searching ipas from multiple repos
